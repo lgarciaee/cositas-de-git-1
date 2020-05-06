@@ -14,7 +14,7 @@ Esta es una tarea del Laboratorio de Metodos Computacionales
 
 # Acerca del Autor
 
-Mi nombre es Juan Pablo Bolaño, nacio en Barranquilla
+Juan Pablo Bolaño, nacio en Barranquilla y estudia Geociencias y Fisica en la Universidad de los Andes.
 
 # Acerca del colaborador
 
