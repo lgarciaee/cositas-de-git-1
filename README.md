@@ -15,3 +15,7 @@ Esta es una tarea del Laboratorio de Metodos Computacionales
 # Acerca del Autor
 
 Mi nombre es Juan Pablo Bolaño, nacio en Barranquilla
+
+# Acerca del colaborador
+
+Wenas soy Martín 
